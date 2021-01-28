@@ -1,0 +1,9 @@
+{
+    "Name": "Checkmate",
+    "Description": "Custom gamemode, a battle between a king's guardians and assassins.",
+    "Version": "1.0.0",
+    "HasVeniceEXT": true,
+    "Dependencies": {
+        "veniceext": "^1.1.0"
+    }
+}
